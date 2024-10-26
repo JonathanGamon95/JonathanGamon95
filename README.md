@@ -62,8 +62,8 @@ Hello, I'm Jonathan Gamon!
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br>
+[![](https://github-readme-stats.vercel.app/api?username=JonathanGamon95&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JonathanGamon95)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=JonathanGamon95&theme=material-palenight)](https://github.com/JonathanGamon95)
 	
 </a>
 </div>
