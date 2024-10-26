@@ -5,7 +5,7 @@ Hello, I'm Jonathan Gamon!
 	</a>
 </h1>
 	
-## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+## **About me**
 
 
 
