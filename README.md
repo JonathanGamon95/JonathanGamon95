@@ -19,6 +19,7 @@ Hello, I'm Jonathan Gamon!
 - 📫 How to contact me: see my links
 - 😄 Pronouns: jony, jona
 - ⚡ Fun fact: I never thought I would become a programmer, I tried it once and never stopped, programming and designing is beautiful
+- Visit my portfolio: https://jonathangamon95.github.io/Portafolio_Personal/
 
 <br>
 <br>
