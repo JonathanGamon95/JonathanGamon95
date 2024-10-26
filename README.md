@@ -13,12 +13,12 @@ Hello, I'm Jonathan Gamon!
 <br>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" align="right" style="width: 400px; " data-target="animated-image.originalImage">
 
-- 🌱 I’m currently learning software architecture
-- 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+- Currently studying React
+- 👯 I'm looking to collaborate on your open source projects
+- 💬 If you want to ask me something, don't hesitate
+- 📫 How to contact me: see my links
+- 😄 Pronouns: jony, jona
+- ⚡ Fun fact: I never thought I would become a programmer, I tried it once and never stopped, programming and designing is beautiful
 
 <br>
 <br>
@@ -69,22 +69,8 @@ Hello, I'm Jonathan Gamon!
 
 <h3 align="center" >Connect with me 🤝 </h3>
 
-<p align="center">
+<a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://www.linkedin.com/in/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank" href="https://">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
-      </div>
-
-</p>
 
 
 	
