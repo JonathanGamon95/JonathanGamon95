@@ -16,7 +16,7 @@ Hello, I'm Jonathan Gamon!
 - Currently studying React and typescript
 - 👯 I'm looking to collaborate on your open source projects
 - 💬 If you want to ask me something, don't hesitate
-- 📫 How to contact me: see my links
+- 📫 How to contact me: through my email and linkedin
 - 😄 Pronouns: jony, jona
 - ⚡ Fun fact: I never thought I would become a programmer, I tried it once and never stopped, programming and designing is beautiful
 - Visit my portfolio: https://jonathangamon95.github.io/Portafolio_Personal/
