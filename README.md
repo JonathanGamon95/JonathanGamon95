@@ -9,7 +9,7 @@ Hello, I'm Jonathan Gamon!
 
 
 
-- Self-taught front-end web developer, technology lover and passionate about design and programming, I am always looking to expand and learn new skills.
+- Front-end Web Developer, technology lover and passionate about design and programming, I am always looking to expand and learn new skills.
 <br>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" align="right" style="width: 400px; " data-target="animated-image.originalImage">
 
