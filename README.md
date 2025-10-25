@@ -18,7 +18,7 @@ Hello, I'm Jonathan Gamon!
 - 💬 If you want to ask me something, don't hesitate
 - 📫 How to contact me: through my email and linkedin
 - 😄 Pronouns: jony, jona
-- Visit my portfolio: https://jonathangamon95.github.io/Mi_portafolio/
+- Visit my portfolio: https://jonathangamon95.github.io/Portafolio-personal-V2/
 
 <br>
 <br>
