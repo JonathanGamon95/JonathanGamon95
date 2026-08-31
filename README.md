@@ -9,7 +9,7 @@ Hello, I'm Jonathan Gamon!
 
 
 
-- Front-end Web Developer.
+Front-end Web Developer.
 - I specialize in creating modern, functional, and user-centered interfaces.
 - My approach combines performance, maintainability, and intuitive experiences using technologies like JavaScript, React, and Tailwind CSS.
 
