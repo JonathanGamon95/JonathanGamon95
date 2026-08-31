@@ -9,13 +9,15 @@ Hello, I'm Jonathan Gamon!
 
 
 
-Front-end Web Developer.
-- I specialize in creating modern, functional, and user-centered interfaces.
-- My approach combines performance, maintainability, and intuitive experiences using technologies like JavaScript, React, and Tailwind CSS.
+I'm Jonathan Gamón, a freelance front-end developer passionate about creating functional and visually appealing interfaces that enhance the user experience.
 
-- Experience: developing projects that range from landing pages to interactive web applications, creating scalable solutions, and optimizing processes through the use of artificial intelligence applied to design, management, and code review.
+I specialize in technologies like HTML, CSS, and JavaScript, and I use frameworks such as React.js and Tailwind to build dynamic and responsive websites and web applications. I'm also proficient in version control tools like Git and GitHub, as well as design and prototyping with Figma.
 
-- Goals: Keep building useful and accessible digital products, exploring new tools and technologies while continuing to grow professionally through projects and open-source collaboration..
+I also incorporate artificial intelligence, using tools like Geminis AI and ChatGPT to optimize design, code management, and review, accelerating processes and improving project quality.
+
+My experience ranges from creating landing pages to developing complex and scalable web applications, always focusing on methodologies like Responsive Design, Component-Based UI, and Mobile First to ensure results adapted to any device.
+
+I invite you to explore my portfolio to see my work and discover how I can add value to your ideas through creative and innovative solutions.
 
 <br>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" align="right" style="width: 400px; " data-target="animated-image.originalImage">
