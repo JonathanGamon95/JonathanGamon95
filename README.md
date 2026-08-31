@@ -9,7 +9,14 @@ Hello, I'm Jonathan Gamon!
 
 
 
-- Front-end Web Developer, technology lover and passionate about design and programming, I am always looking to expand and learn new skills.
+- Front-end Web Developer.
+- I specialize in creating modern, functional, and user-centered interfaces.
+- My approach combines performance, maintainability, and intuitive experiences using technologies like JavaScript, React, and Tailwind CSS.
+
+Experience: developing projects that range from landing pages to interactive web applications, creating scalable solutions, and optimizing processes through the use of artificial intelligence applied to design, management, and code review.
+
+Goals: Keep building useful and accessible digital products, exploring new tools and technologies while continuing to grow professionally through projects and open-source collaboration..
+
 <br>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" align="right" style="width: 400px; " data-target="animated-image.originalImage">
 
