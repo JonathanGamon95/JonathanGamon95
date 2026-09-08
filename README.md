@@ -22,7 +22,7 @@ I invite you to explore my portfolio to see my work and discover how I can add v
 <br>
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" align="right" style="width: 400px; " data-target="animated-image.originalImage">
 
-- Currently studying React and typescript
+- Currently studying Node.js
 - 👯 I'm looking to collaborate on your open source projects
 - 💬 If you want to ask me something, don't hesitate
 - 📫 How to contact me: through my email and linkedin
